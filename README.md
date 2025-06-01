@@ -1,8 +1,8 @@
 <h1>Welcome to my profile :D 👋</h1>
 I'm a potato developer.
 <h2>🙃 Major Projects</h2>
-<p>- The Math Website [Planned to release on 15/08/2025]</p>
-<p>- The Coding Website [Planned to release on 20/09/2025]</p>
+<p>- The Math Website [Planned to release on 15/08/2025] [⚠️ Cancelled]</p>
+<p>- The Coding Website [Planned to release on 20/09/2025] [⚠️ Cancelled]</p>
 <p>- MathEclipse and SwiftlyLoad [Currently in Beta Testing Phase]</p>
 
 <h2>🌟 Languages</h2>
