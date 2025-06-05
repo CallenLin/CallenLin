@@ -7,19 +7,18 @@ I'm a potato developer.
 
 <h2>🌟 Languages</h2>
 <p>
-  <img src="https://img.shields.io/badge/HTML5%20Language-orange?logo=html5&logoColor=white" alt="HTML5 Badge">
-  <img src="https://img.shields.io/badge/CSS3%20Language-blue?logo=css3&logoColor=white" alt="CSS3 Badge">
-  <img src="https://img.shields.io/badge/JavaScript%20Language-yellow?logo=JavaScript&logoColor=white" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/Python%20Language%20Libary-crimson?logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/AppleScript%20Language-lightgray?logo=apple&logoColor=white" alt="AppleScript Badge">
-  <img src="https://img.shields.io/badge/MathEclipse%20Language-purple?logo=python&logoColor=white" alt="MathEclipse Badge">
-  <img src="https://img.shields.io/badge/PHP%20Language-gray?logo=php&logoColor=white" alt="PHP Badge">
+  <!-- <img src="https://img.shields.io/badge/HTML5%20Language-orange?logo=html5&logoColor=white" alt="HTML5 Badge"> -->
+  <!-- <img src="https://img.shields.io/badge/CSS3%20Language-blue?logo=css3&logoColor=white" alt="CSS3 Badge"> -->
+  <!-- <img src="https://img.shields.io/badge/JavaScript%20Language-yellow?logo=JavaScript&logoColor=white" alt="JavaScript Badge"> -->
+  <!-- <img src="https://img.shields.io/badge/Python%20Language%20Libary-crimson?logo=python&logoColor=white" alt="Python Badge"> -->
+  <!-- <img src="https://img.shields.io/badge/AppleScript%20Language-lightgray?logo=apple&logoColor=white" alt="AppleScript Badge"> -->
+  <!-- <img src="https://img.shields.io/badge/PHP%20Language-gray?logo=php&logoColor=white" alt="PHP Badge"> -->
 </p>
 <h2>🧐 Learning the following languages</h2>
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B%20Language-navy?logo=C%2B%2B&logoColor=white" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/Ruby%20Language-red?logo=ruby&logoColor=white" alt="Ruby Badge">
-  <img src="https://img.shields.io/badge/Rust%20Language-orange?logo=rust&logoColor=white" alt="Rust Badge">
+  <!--<img src="https://img.shields.io/badge/C%2B%2B%20Language-navy?logo=C%2B%2B&logoColor=white" alt="C++ Badge"> -->
+  <!--<img src="https://img.shields.io/badge/Ruby%20Language-red?logo=ruby&logoColor=white" alt="Ruby Badge"> -->
+  <!--<img src="https://img.shields.io/badge/Rust%20Language-orange?logo=rust&logoColor=white" alt="Rust Badge"> -->
 </p>
 
 <h2>🚧 Current Repositiories in Progress</h2>
