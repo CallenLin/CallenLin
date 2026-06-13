@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on
-**A modern flask container for all to use!**  
-https://github.com/CallenLin/Amazing-FlaskDevContainer-Setup
+**A modern flask container template for all to use!**  
+https://github.com/CallenLin/Amazing-FlaskDevContainer-Template
 
 **A website project for a task :D**  
 https://github.com/TempeHS/2027CT_amazingWebsiteProject_Callen.L
